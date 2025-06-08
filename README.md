@@ -41,7 +41,7 @@ The application uses a simple text-based protocol for communication:
 
 1. Navigate to the server directory:
    ```
-   cd /home/adame/Documents/UTFPR/redes/projeto_2/server
+   cd server
    ```
 
 2. Create a `files` directory inside the server directory for storing files to be transferred:
@@ -62,7 +62,7 @@ The application uses a simple text-based protocol for communication:
 
 1. Navigate to the client directory:
    ```
-   cd /home/adame/Documents/UTFPR/redes/projeto_2/client
+   cd client
    ```
 
 2. Run the client:
